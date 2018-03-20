@@ -4,19 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 19, 2018
 
 ### Student Name:  
-(First and Last Name)
+Glennetria J. Harold
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a photo gallary that allows the user to navigate through the images using
+the given code to understand how nodes, DOM trees, and image properties function.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gjh16.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to create, clone, and remove document nodes from a code.
+2. Learned how to access certain elements using ids, tag names classes,
+    names, or selectors
+3. Learned how to use the DOM methods to create new things to be added to a DOM
+    tree
